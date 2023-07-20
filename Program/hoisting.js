@@ -1,5 +1,5 @@
 
-//use to debugging to find memory creation phase of the variables and functions
+//use the debugging tool to find memory creation phase of the variables and functions
 //hoisting is a process of moving the variables and functions to the top of their scope before the execution of the code.
 //getName(), will create a memory which will hold the complete code of the function
 //var x, will get created with a value of undefined
